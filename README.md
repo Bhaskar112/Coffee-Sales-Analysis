@@ -21,13 +21,11 @@ You can find the data set in the given link: https://drive.google.com/file/d/1iH
 ## Technologies Used
 <pre> 
 1.Jupyter notebook
-2. Python 
-3. Sklearn
-4. Pandas
-5. Scipy
-6. Numpy
-7. Seaborn
-8. Matplotlib
+2. Python
+3. Pandas
+4. Numpy
+5. Seaborn
+6. Matplotlib
 </pre>
 
 ## Help Me Improve
